@@ -116,8 +116,8 @@ The application will open in your browser at `http://localhost:8501`
 ```
 Image-Transformation/
 │
-├── app.py                 # Main application file
-├── requirements.txt       # Python dependencies
+├── transformation        # Main application file
+├── requirements.txt      # Python dependencies
 ├── packages.txt          # System dependencies
 ├── README.md             # Documentation
 ```
