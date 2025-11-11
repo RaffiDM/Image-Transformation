@@ -32,7 +32,7 @@ An interactive web application for image transformation using OpenCV and Streaml
 
 ![App Screenshot](https://github.com/user-attachments/assets/072d42eb-b815-4f45-b964-deccfd770e73)
 ![App Screenshot](https://github.com/user-attachments/assets/a3f4dbc2-6d0d-44d6-9f85-ad7905c7b1d7)
-*Screenshot showing the image transformation interface*
+
 
 ## 📋 Prerequisites
 
