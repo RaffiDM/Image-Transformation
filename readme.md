@@ -48,7 +48,7 @@ An interactive web application for image transformation using OpenCV and Streaml
 [Live Demo](https://image-transformation.streamlit.app/)
 
 ![App Screenshot](https://github.com/user-attachments/assets/8ad2b010-0dbc-4288-a78c-fad8d223f306)
-![App Screenshot](https://github.com/user-attachments/assets/9bbbb383-8756-4c00-b3d8-d3e62ac9016b")
+![App Screenshot](https://github.com/user-attachments/assets/b34a1fd2-45d6-4856-a064-8d30a466d599)
 
 ## 📋 Prerequisites
 
